@@ -1,1 +1,1 @@
-# ricci_curvature_on_graph
+In this notebook, we calculate and visualize the Ricci curvature of graphs.
